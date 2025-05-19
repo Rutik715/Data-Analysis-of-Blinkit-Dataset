@@ -43,8 +43,6 @@ To conduct a comprehensive analysis of blinkit sales performance,customer satisf
 
 ## 📈 Insights Generated
 
-## 📈 Insights Generated
-
 ### 🔹 High Sales Correlation with Item Type and Fat Content  
 Items with higher fat content (e.g., Full Cream, Whole Milk) showed significantly **higher total sales**, suggesting strong customer preference for richer food products.
 
