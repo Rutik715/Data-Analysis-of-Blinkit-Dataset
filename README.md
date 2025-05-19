@@ -43,6 +43,8 @@ To conduct a comprehensive analysis of blinkit sales performance,customer satisf
 
 ---
 
+- Dashboard Interaction <a href="https://github.com/Rutik715/Data-Analysis-of-Blinkit-Dataset/blob/main/Screenshot%202025-05-19%20225328.png">View Dashboard</a>
+  
 ## 📈 Insights Generated
 
 ### 🔹 High Sales Correlation with Item Type and Fat Content  
