@@ -3,6 +3,8 @@
 A comprehensive end-to-end data analysis project focused on Blinkit (formerly Grofers), leveraging **Excel**, **SQL**, **Power BI**, and **Python** to extract insights, visualize KPIs, and support data-driven decision-making.
 
 ---
+# Dataset Used
+-<a href="https://github.com/Rutik715/Data-Analysis-of-Blinkit-Dataset/blob/main/BlinkIT%20Grocery%20Data.csv">Dataset</a>
 
 ## 🚀 Project Overview
 
